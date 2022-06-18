@@ -1,0 +1,5 @@
+Features
+* Noun decliner
+* Noun un-decliner (possible? need to think lol)
+* adj decliner
+* learning page (declension table with examples)
